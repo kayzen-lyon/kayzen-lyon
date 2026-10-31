@@ -51,12 +51,12 @@ Des outils utilisables sans payer, souvent sans inscription :
 
 | Dépôt | Description |
 |---|---|
-| [**konforme**](https://github.com/skyymar69-rgb/konforme) | Accessibilité web RGAA & WCAG automatisée par IA |
-| [**nexus-seo**](https://github.com/skyymar69-rgb/nexus-seo) | Plateforme SEO IA : GEO, AEO, LLMO, audit technique |
-| [**kayzen-turf-ai**](https://github.com/skyymar69-rgb/kayzen-turf-ai) | Pronostics hippiques : modélisation multi-agents Plackett-Luce |
-| [**fonciermcp**](https://github.com/skyymar69-rgb/fonciermcp) | Serveur MCP autour des données foncières |
-| [**naturo-nutri**](https://github.com/skyymar69-rgb/naturo-nutri) | Portail de 797 pages en naturopathie, avec quiz de tempérament |
-| [**tableo**](https://github.com/skyymar69-rgb/tableo) | SaaS de commande et de paiement par QR code pour la restauration |
+| [**konforme**](https://github.com/kayzen-lyon/konforme) | Accessibilité web RGAA & WCAG automatisée par IA |
+| [**nexus-seo**](https://github.com/kayzen-lyon/nexus-seo) | Plateforme SEO IA : GEO, AEO, LLMO, audit technique |
+| [**kayzen-turf-ai**](https://github.com/kayzen-lyon/kayzen-turf-ai) | Pronostics hippiques : modélisation multi-agents Plackett-Luce |
+| [**fonciermcp**](https://github.com/kayzen-lyon/fonciermcp) | Serveur MCP autour des données foncières |
+| [**naturo-nutri**](https://github.com/kayzen-lyon/naturo-nutri) | Portail de 797 pages en naturopathie, avec quiz de tempérament |
+| [**tableo**](https://github.com/kayzen-lyon/tableo) | SaaS de commande et de paiement par QR code pour la restauration |
 
 Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est également consultable publiquement.
 
@@ -69,7 +69,7 @@ Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est égalem
 | **Nexus SEO** | SEO technique, GEO, AEO, LLMO | 👉 [nexus.kayzen-lyon.com](https://nexus.kayzen-lyon.com) |
 | **CITEIA** | Lisibilité du site par les robots IA et données structurées | 👉 [synaptik.kayzen-lyon.com](https://synaptik.kayzen-lyon.com) |
 | **Konsent** | Cookies et traceurs, comportement réel du code face au consentement | 👉 [konsent.kayzen-lyon.com](https://konsent.kayzen-lyon.com) |
-| **Konforme** | Accessibilité RGAA et WCAG | 👉 [konforme.kayzen-lyon.com](https://konforme.kayzen-lyon.com) • ✏️ [Repo](https://github.com/skyymar69-rgb/konforme) |
+| **Konforme** | Accessibilité RGAA et WCAG | 👉 [konforme.kayzen-lyon.com](https://konforme.kayzen-lyon.com) • ✏️ [Repo](https://github.com/kayzen-lyon/konforme) |
 
 ## 🔒 Cybersécurité
 
@@ -85,11 +85,11 @@ Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est égalem
 | Projet | Description | Lien |
 |---|---|---|
 | **Météo Climat France** | Cartes MapLibre, prévisions et volet agronomique | 👉 [Site](https://meteo-climat-france.vercel.app) |
-| **PronoTurf** | Modèle multi-agents Plackett-Luce, logique de pari fondée sur la CLV | 👉 [Site](https://kayzen-turf-ai.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/kayzen-turf-ai) |
+| **PronoTurf** | Modèle multi-agents Plackett-Luce, logique de pari fondée sur la CLV | 👉 [Site](https://kayzen-turf-ai.vercel.app) • ✏️ [Repo](https://github.com/kayzen-lyon/kayzen-turf-ai) |
 | **PronoFoot** | Analyse prédictive et gestion de bankroll | 👉 [Site](https://pronofoot-pearl.vercel.app) |
 | **Studio** | Retouche photo RAW non destructive | 👉 [Site](https://studio-ai-mauve.vercel.app) |
-| **Tableo** | Commandes et paiements par QR code (React, Supabase) | 👉 [Site](https://tableo-sepia.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/tableo) |
-| **FoncierMCP** | Serveur MCP pour agents IA | 👉 [Site](https://fonciermcp.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/fonciermcp) |
+| **Tableo** | Commandes et paiements par QR code (React, Supabase) | 👉 [Site](https://tableo-sepia.vercel.app) • ✏️ [Repo](https://github.com/kayzen-lyon/tableo) |
+| **FoncierMCP** | Serveur MCP pour agents IA | 👉 [Site](https://fonciermcp.vercel.app) • ✏️ [Repo](https://github.com/kayzen-lyon/fonciermcp) |
 
 ---
 
@@ -128,8 +128,8 @@ Une sélection — le portfolio complet (40 réalisations) est sur **[kayzen-lyo
 ## 📊 Activité GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=skyymar69-rgb&show_icons=true&locale=fr&hide_border=true&title_color=1F3B61&icon_color=B7481F" alt="Statistiques GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyymar69-rgb&layout=compact&locale=fr&hide_border=true&title_color=1F3B61" alt="Langages les plus utilisés">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kayzen-lyon&show_icons=true&locale=fr&hide_border=true&title_color=1F3B61&icon_color=B7481F" alt="Statistiques GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayzen-lyon&layout=compact&locale=fr&hide_border=true&title_color=1F3B61" alt="Langages les plus utilisés">
 </p>
 
 ---
