@@ -4,107 +4,126 @@
 
 <p align="center">
   <a href="https://www.kayzen-lyon.com"><img src="https://img.shields.io/badge/Site-kayzen--lyon.com-0b7a80?style=for-the-badge" alt="Site KAYZEN LYON"></a>
+  <a href="https://www.kayzen-lyon.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-40%20réalisations-06343a?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/tarek-belhadj-lyon/"><img src="https://img.shields.io/badge/LinkedIn-tarek--belhadj--lyon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:contact@kayzen-lyon.fr"><img src="https://img.shields.io/badge/Email-contact@kayzen--lyon.fr-06343a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## 👋 Bonjour, je suis Tarek
 
-Pendant plus de vingt-cinq ans, j'ai vendu, démontré et expliqué la high-tech : vendeur chez Carrefour puis à la Fnac Bellecour, responsable de magasin SFR, animateur commercial pour Sony, Huawei, Panasonic ou LG, chef de secteur GSS chez Sony Electronics sur huit départements, puis animateur Qualcomm Snapdragon. Ce terrain m'a appris à écouter un client, à traduire la technique en bénéfices concrets et à mesurer ce qui marche.
+Développeur web full stack et spécialiste SEO, je fonde **KAYZEN LYON**, agence web et studio produit à Lyon. Je conçois des sites rapides et bien référencés pour les PME, et je développe des outils gratuits autour de trois sujets : **la visibilité** (SEO, GEO, moteurs de réponse IA), **la conformité** (RGPD, accessibilité RGAA) et **la sécurité** (mots de passe, secrets, tests d'intrusion).
 
-En parallèle, depuis 2007, je crée des sites web en freelance (MSC Informatique) : intégration, référencement, maintenance de parc et dépannage pour des centaines de clients en région lyonnaise.
-
-Aujourd'hui, je réunis ces deux mondes au sein de **KAYZEN LYON**, agence web et studio produit : sites performants pour les PME d'Auvergne-Rhône-Alpes, SEO et visibilité dans les moteurs IA (GEO/AEO), et outils SaaS construits autour d'agents IA et du protocole MCP.
+Je code depuis 2007, d'abord en freelance (création de sites, référencement, maintenance), et j'ai consolidé cette pratique par plusieurs formations en développement, en SEO et en gestion de projet digital. Mon passé de commercial dans la high-tech me sert surtout à une chose : comprendre ce dont un client a vraiment besoin avant d'écrire la première ligne de code.
 
 ```
-🎯 Objectif : des produits web utiles, rapides, conformes (RGPD, RGAA) et visibles — pour les humains comme pour les IA.
+🎯 Des outils web utiles, rapides et conformes — et une bonne partie d'entre eux gratuits pour tous.
 ```
 
 ---
 
-## 🧰 Langages, frameworks & outils
+## 🎓 Formations
+
+| Formation | Organisme |
+|---|---|
+| **Bachelor Chef de projet digital** | Digital Campus, Lyon |
+| **Licence Développeur Web Full Stack** | Lyon / Villeurbanne |
+| **Expert SEO — Responsable marketing digital & publicité** | Oreegami, Lyon |
+| **Intégrateur WordPress** | Simplon, Lyon |
+| **Support technique — certification Microsoft MCTS** | M2I, Lyon |
+
+---
+
+## 🎁 Gratuit pour la communauté
+
+Des outils utilisables sans payer, souvent sans inscription :
+
+| Outil | Ce qu'il fait | Lien |
+|---|---|---|
+| 🔐 **Sésame** | Gestionnaire de mots de passe chiffré de bout en bout, 2FA et passkeys — web, extension, Android, Windows | 👉 [sesame.kayzen-lyon.com](https://sesame.kayzen-lyon.com) |
+| ⚡ **Sésame Éclair** | Partage d'un secret par lien chiffré qui s'autodétruit après lecture | 👉 [eclair.kayzen-lyon.com](https://eclair.kayzen-lyon.com) |
+| 📄 **DocuSûr** | 31 outils PDF traités entièrement dans le navigateur : vos fichiers ne quittent pas votre poste | 👉 [docusur.kayzen-lyon.com](https://docusur.kayzen-lyon.com) |
+| 🌦️ **Météo Climat France** | Prévisions heure par heure, cartes interactives et météo agricole pour chaque commune de France | 👉 [meteo-climat-france.vercel.app](https://meteo-climat-france.vercel.app) |
+| 🔎 **Nexus SEO** | Audit SEO, GEO et AEO — gratuit pour commencer | 👉 [nexus.kayzen-lyon.com](https://nexus.kayzen-lyon.com) |
+| 🍪 **Konsent** | Audit RGPD : ce que votre site dépose avant le consentement | 👉 [konsent.kayzen-lyon.com](https://konsent.kayzen-lyon.com) |
+| 🔮 **L'Archiste** | Numérologie, thème natal et arts divinatoires, sans inscription | 👉 [archiste.vercel.app](https://archiste.vercel.app) |
+
+### 📂 Code publié sur GitHub
+
+| Dépôt | Description |
+|---|---|
+| [**konforme**](https://github.com/skyymar69-rgb/konforme) | Accessibilité web RGAA & WCAG automatisée par IA |
+| [**nexus-seo**](https://github.com/skyymar69-rgb/nexus-seo) | Plateforme SEO IA : GEO, AEO, LLMO, audit technique |
+| [**kayzen-turf-ai**](https://github.com/skyymar69-rgb/kayzen-turf-ai) | Pronostics hippiques : modélisation multi-agents Plackett-Luce |
+| [**fonciermcp**](https://github.com/skyymar69-rgb/fonciermcp) | Serveur MCP autour des données foncières |
+| [**naturo-nutri**](https://github.com/skyymar69-rgb/naturo-nutri) | Portail de 797 pages en naturopathie, avec quiz de tempérament |
+| [**tableo**](https://github.com/skyymar69-rgb/tableo) | SaaS de commande et de paiement par QR code pour la restauration |
+
+Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est également consultable publiquement.
+
+---
+
+## 🛡️ Audit & conformité
+
+| Outil | Ce qu'il mesure | Lien |
+|---|---|---|
+| **Nexus SEO** | SEO technique, GEO, AEO, LLMO | 👉 [nexus.kayzen-lyon.com](https://nexus.kayzen-lyon.com) |
+| **CITEIA** | Lisibilité du site par les robots IA et données structurées | 👉 [synaptik.kayzen-lyon.com](https://synaptik.kayzen-lyon.com) |
+| **Konsent** | Cookies et traceurs, comportement réel du code face au consentement | 👉 [konsent.kayzen-lyon.com](https://konsent.kayzen-lyon.com) |
+| **Konforme** | Accessibilité RGAA et WCAG | 👉 [konforme.kayzen-lyon.com](https://konforme.kayzen-lyon.com) • ✏️ [Repo](https://github.com/skyymar69-rgb/konforme) |
+
+## 🔒 Cybersécurité
+
+| Projet | Description | Statut |
+|---|---|---|
+| **Sentinel** | Tests d'intrusion menés par des agents IA : failles démontrées et correctifs proposés en pull requests | 👉 [sentinel.kayzen-lyon.com](https://sentinel.kayzen-lyon.com) |
+| **Kayzen Security** | Plateforme unifiée pour TPE/PME : filtrage DNS anti-phishing, puis inventaire, antivirus, EDR | 🧪 Pilote gratuit — [kayzen-security.vercel.app](https://kayzen-security.vercel.app) |
+| **VPN KAYZEN** | VPN gratuit, complément de Kayzen Security | 🛠️ En préparation |
+| **Sésame / Sésame Éclair** | Mots de passe et secrets chiffrés de bout en bout | ✅ En ligne |
+
+## 🧪 IA, data & applications
+
+| Projet | Description | Lien |
+|---|---|---|
+| **Météo Climat France** | Cartes MapLibre, prévisions et volet agronomique | 👉 [Site](https://meteo-climat-france.vercel.app) |
+| **PronoTurf** | Modèle multi-agents Plackett-Luce, logique de pari fondée sur la CLV | 👉 [Site](https://kayzen-turf-ai.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/kayzen-turf-ai) |
+| **PronoFoot** | Analyse prédictive et gestion de bankroll | 👉 [Site](https://pronofoot-pearl.vercel.app) |
+| **Studio** | Retouche photo RAW non destructive | 👉 [Site](https://studio-ai-mauve.vercel.app) |
+| **Tableo** | Commandes et paiements par QR code (React, Supabase) | 👉 [Site](https://tableo-sepia.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/tableo) |
+| **FoncierMCP** | Serveur MCP pour agents IA | 👉 [Site](https://fonciermcp.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/fonciermcp) |
+
+---
+
+## 🌐 Sites réalisés
+
+Une sélection — le portfolio complet (40 réalisations) est sur **[kayzen-lyon.com/portfolio](https://www.kayzen-lyon.com/portfolio)**.
+
+| Bâtiment & artisanat | Restauration & commerce | Culture, santé & services |
+|---|---|---|
+| [Muller Toiture](https://mullertoiture.vercel.app) — estimateur de toiture | [Au P'tit Zinc](https://www.auptitzinc.fr) | [Acte 2 Théâtre](https://acte2theatre.vercel.app) — billetterie |
+| [BTP EA Rénovation](https://www.btp-ea-renovation.com) | [Chez Mounier](https://chez-mounier-liard.vercel.app) — bouchon lyonnais | [Art Scénic](https://velvet-stage-arts-main.vercel.app) |
+| [SER & BAT](https://www.seretbat.fr) | [Grand Café du Commerce](https://grandcafeducommerce.vercel.app) | [Congrès JOD 2026](https://www.congres-jod.org) — inscriptions |
+| [AH Élec Rénov](https://ah-elec-renov.vercel.app) — tunnel de devis | [La Raffinerie](https://la-raffinerie-lyon.vercel.app) | [Nutriéa](https://naturo-nutri.vercel.app) — 797 pages |
+| [Damien Mugnier](https://damien-mugnier-main.vercel.app) — carrelage | [Maison Victoire](https://maison-victoire.vercel.app) — bilingue | [Hans Leutenegger SA](https://hl-web-master.vercel.app) — portail emploi multilingue |
+| [Net Rénovation](https://www.net-renovation.fr) | [Boucherie de l'Avenue](https://www.boucherie-avenue.fr) | [France Évasions](https://www.france-evasions.fr) — location d'autocars |
+| [LM Espace Vert](https://www.lm-espace-vert.fr) | [Restaurant Zigana](https://zigana.vercel.app) | [Philippe Reynaud](https://www.philippe-reynaud.fr) — photographe |
+| [Le Galant](https://legalant.vercel.app) — coutellerie | [Halles de Lyon Paul Bocuse](https://halles-paul-bocuse-master.vercel.app) | [Atelier JUMP](https://atelier-jump-pr.vercel.app) — textile |
+
+---
+
+## 🧰 Stack technique
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,python,html,css,postgres,vercel,github,git,figma,wordpress&perline=8" alt="Technologies">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,vite,tailwind,nodejs,python,postgres,supabase,vercel,github,git,figma,wordpress&perline=8" alt="Technologies">
 </p>
 
 | Domaine | Technologies |
 |---|---|
-| **Front** | Next.js 15, React, TypeScript, Tailwind CSS |
-| **Back & données** | Node.js, Python, Postgres (Neon), Drizzle ORM, Payload CMS v3 |
-| **IA** | Agents multi-étapes, systèmes multi-agents, serveurs MCP (Model Context Protocol), Claude Code |
-| **Infra** | Vercel, monorepos Turborepo / pnpm, Resend, Plausible Analytics |
-| **Web marketing** | SEO technique et éditorial, GEO / AEO, netlinking, SXO / UX, WordPress |
-
----
-
-## 🚀 Produits KAYZEN
-
-| Projet | Description | Lien |
-|---|---|---|
-| **KAYZEN LYON** | Site vitrine de l'agence | 👉 [kayzen-lyon.com](https://www.kayzen-lyon.com) |
-| **Konforme** | Accessibilité web RGAA & WCAG automatisée par IA | 👉 [konforme.kayzen-lyon.com](https://konforme.kayzen-lyon.com) • ✏️ [Repo](https://github.com/skyymar69-rgb/konforme) |
-| **Konsent** | Audit automatisé RGPD, cookies et traceurs | 👉 [konsent.kayzen-lyon.com](https://konsent.kayzen-lyon.com) |
-| **Synaptik** (CITEIA) | Audit et suivi de la visibilité dans les moteurs de réponse IA | 👉 [synaptik.kayzen-lyon.com](https://synaptik.kayzen-lyon.com) |
-| **Nexus SEO** | Plateforme SEO IA : GEO, AEO, LLMO, audit technique | 👉 [nexus-seo-dun.vercel.app](https://nexus-seo-dun.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/nexus-seo) |
-| **Sentinel** | Pentest IA autonome et cybersécurité offensive | 👉 [sentinel.kayzen-lyon.com](https://sentinel.kayzen-lyon.com) |
-| **Docusur** | Outil de la suite KAYZEN | 👉 [docusur.kayzen-lyon.com](https://docusur.kayzen-lyon.com) |
-| **Sésame** | Gestionnaire de mots de passe gratuit, chiffré de bout en bout | 👉 [sesame.kayzen-lyon.com](https://sesame.kayzen-lyon.com) |
-| **Sésame Éclair** | Partage de secrets à lecture unique, chiffré de bout en bout | 👉 [eclair.kayzen-lyon.com](https://eclair.kayzen-lyon.com) |
-| **Kayzen Security** | Suite de sécurité « all in one » (en développement) | 👉 [kayzen-security.vercel.app](https://kayzen-security.vercel.app) |
-| **Studio AI / Pixr** | Retouche photo professionnelle et API de traitement d'images | 👉 [studio-ai-mauve.vercel.app](https://studio-ai-mauve.vercel.app) |
-| **Kayzen Design System** | Composants et charte graphique communs | 👉 [kayzen-design-system.vercel.app](https://kayzen-design-system.vercel.app) |
-| **Kayzen Docs** | Documentation des produits | 👉 [kayzen-docs.vercel.app](https://kayzen-docs.vercel.app) |
-
-## 🧪 Projets IA & data
-
-| Projet | Description | Lien |
-|---|---|---|
-| **PronoTurf** (Kayzen Turf AI) | Pronostics hippiques : modélisation multi-agents Plackett-Luce, logique de pari fondée sur la CLV | 👉 [Site](https://kayzen-turf-ai.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/kayzen-turf-ai) |
-| **PronoFoot** | Analyse prédictive et gestion de bankroll pour les paris football | 👉 [pronofoot-pearl.vercel.app](https://pronofoot-pearl.vercel.app) |
-| **Archiste** | Plateforme d'arts divinatoires couvrant 12 traditions | 👉 [archiste.vercel.app](https://archiste.vercel.app) |
-| **Météo Climat France** | Carte d'observations et socle météo agricole | 👉 [meteo-climat-france.vercel.app](https://meteo-climat-france.vercel.app) |
-| **FoncierMCP** | Serveur MCP autour des données foncières | 👉 [fonciermcp.vercel.app](https://fonciermcp.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/fonciermcp) |
-| **Tableo** | MVP SaaS | 👉 [tableo-sepia.vercel.app](https://tableo-sepia.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/tableo) |
-
-## 🏪 Sites réalisés pour des entreprises
-
-| Client | Secteur | Lien |
-|---|---|---|
-| **Au P'tit Zinc** | Restaurant | 👉 [auptitzinc.fr](https://www.auptitzinc.fr) |
-| **Muller Toiture** | Couverture | 👉 [mullertoiture.com](https://www.mullertoiture.com) |
-| **La Maison de la Toiture** | Couverture | 👉 [maisondelatoiture.vercel.app](https://maisondelatoiture.vercel.app) |
-| **BTP EA Rénovation** | Bâtiment | 👉 [btp-ea-renovation.com](https://www.btp-ea-renovation.com) |
-| **Seretbat** | Bâtiment | 👉 [seretbat.fr](https://www.seretbat.fr) |
-| **LM Espace Vert** | Paysagisme | 👉 [lm-espace-vert.fr](https://www.lm-espace-vert.fr) • ✏️ [Repo](https://github.com/skyymar69-rgb/lm-espace-vert) |
-| **Nutriéa** | Naturopathie et nutrithérapie — 797 pages, quiz de tempérament | 👉 [naturo-nutri.vercel.app](https://naturo-nutri.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/naturo-nutri) |
-| **Maison Victoire** | Boulangerie (refonte) | 👉 [maison-victoire.vercel.app](https://maison-victoire.vercel.app) |
-| **Le 9ème Pain** | Boulangerie bio au levain, Lyon 9 | 👉 [le9emepain.vercel.app](https://le9emepain.vercel.app) |
-| **Maison Jocteur** | Commerce de bouche | 👉 [maison-jocteur.vercel.app](https://maison-jocteur.vercel.app) |
-| **Brasserie des Monts d'Or** | Restauration | 👉 [brasserie-monts-dor.vercel.app](https://brasserie-monts-dor.vercel.app) |
-| **Chez Mounier** | Bouchon lyonnais | 👉 [chez-mounier-liard.vercel.app](https://chez-mounier-liard.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/chez-mounier) |
-| **Le Fennec** | Restauration | 👉 [le-fennec.vercel.app](https://le-fennec.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/le-fennec) |
-| **Kebab d'Or** | Restauration | 👉 [kebab-dor-lyon.vercel.app](https://kebab-dor-lyon.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/kebab-dor-lyon) |
-| **La Raffinerie** | Lyon | 👉 [la-raffinerie-lyon.vercel.app](https://la-raffinerie-lyon.vercel.app) |
-| **Grenier d'Or** | Débarras Rhône-Alpes | 👉 [grenier-dor.vercel.app](https://grenier-dor.vercel.app) |
-| **Leutenegger Immobilier** | Immobilier | 👉 [leutenegger-immobilier.vercel.app](https://leutenegger-immobilier.vercel.app) |
-| **AH Élec Rénov** | Électricité | 👉 [ah-elec-renov.vercel.app](https://ah-elec-renov.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/ah-elec-renov) |
-| **Damien Mugnier** | Carreleur maçon, Beauvallon | 👉 [damien-mugnier-main.vercel.app](https://damien-mugnier-main.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/damien-mugnier-main) |
-| **Académie de piano Bérénice** | École de musique, Nice | ✏️ [Repo](https://github.com/skyymar69-rgb/piano-berenice) |
-| **C3P Conseil** | Conseil | 👉 [c3p-conseil.vercel.app](https://c3p-conseil.vercel.app) |
-| **Ylang Transport** | Transporteur routier à Mayotte | 👉 [ylang-transport.vercel.app](https://ylang-transport.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/ylang-transport) |
-| **Acte 2 Théâtre** | Théâtre — refonte Next.js 15 + Sanity | 👉 [acte2theatre.vercel.app](https://acte2theatre.vercel.app) • ✏️ [Repo](https://github.com/skyymar69-rgb/acte2theatre) |
-| **Encre des Signes** | Création | 👉 [encre-des-signes.vercel.app](https://encre-des-signes.vercel.app) |
-
-### 🎨 Maquettes et propositions de refonte
-
-| Projet | Lien |
-|---|---|
-| Halles de Lyon Paul Bocuse — site multilingue | 👉 [halles-paul-bocuse-master.vercel.app](https://halles-paul-bocuse-master.vercel.app) |
-| Brasserie Georges | 👉 [brasserie-georges.vercel.app](https://brasserie-georges.vercel.app) |
-| Comœdia | 👉 [comoedia-de-lyon.vercel.app](https://comoedia-de-lyon.vercel.app) |
-
----
+| **Front** | Next.js 15, React, Vite, TypeScript, Tailwind CSS, Framer Motion |
+| **Back & données** | Node.js, Python, Supabase, Postgres (Neon), Drizzle ORM, Payload CMS, Sanity |
+| **Sécurité** | WebCrypto, WebAssembly, chiffrement côté client |
+| **IA** | Agents et systèmes multi-agents, serveurs MCP (Model Context Protocol), Claude Code |
+| **SEO** | SEO technique et éditorial, GEO / AEO / LLMO, données structurées, netlinking, SXO |
+| **Infra** | Vercel, monorepos Turborepo / pnpm, GitHub Actions |
 
 ## 📊 Activité GitHub
 
@@ -115,22 +134,7 @@ Aujourd'hui, je réunis ces deux mondes au sein de **KAYZEN LYON**, agence web e
 
 ---
 
-## 🎓 Formation
-
-- Bachelor Chef de projet digital — Digital Campus, Lyon
-- Licence Développeur Web Full Stack
-- Intégrateur WordPress — Simplon, Lyon
-- Expert SEO / Responsable marketing digital & publicité — Oreegami, Lyon
-- Support technique & certification Microsoft MCTS — M2I, Lyon
-- Master Responsable logistique — CCI / Groupe FIM, Saint-Lô
-
-## 🌄 En dehors du code
-
-Randonnée en montagne, surtout dans les Alpes · photographie en plein air · bénévole à Handicap Évasion · formateur NTIC.
-
----
-
 <p align="center">
-  📫 Un projet web, un audit SEO / accessibilité, ou simplement envie d'échanger ?
+  📫 Un site, un audit SEO / RGPD / accessibilité, ou envie de contribuer à un outil ?
   <a href="mailto:contact@kayzen-lyon.fr">contact@kayzen-lyon.fr</a>
 </p>
