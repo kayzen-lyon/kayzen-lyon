@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06343a"/>
+      <stop offset="1" stop-color="#0b7a80"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <circle cx="1060" cy="70" r="140" fill="#ffffff" fill-opacity="0.05"/>
+  <circle cx="1120" cy="260" r="90" fill="#ffffff" fill-opacity="0.04"/>
+  <text x="70" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Tarek BELHADJ</text>
+  <text x="72" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#bff3f0" letter-spacing="2">FONDATEUR KAYZEN LYON · DÉVELOPPEUR WEB &amp; IA</text>
+  <text x="72" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#e6fbfa" fill-opacity="0.85">Next.js · TypeScript · SEO / GEO · Agents IA &amp; MCP · Lyon</text>
+  <rect x="72" y="240" width="120" height="4" rx="2" fill="#5fe0d8"/>
+</svg>
