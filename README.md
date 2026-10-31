@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kayzen-lyon.com"><img src="https://img.shields.io/badge/Site-kayzen--lyon.com-0b7a80?style=for-the-badge" alt="Site KAYZEN LYON"></a>
-  <a href="https://www.kayzen-lyon.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-40%20réalisations-06343a?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.kayzen-lyon.com"><img src="https://img.shields.io/badge/Site-kayzen--lyon.com-B7481F?style=for-the-badge" alt="Site KAYZEN LYON"></a>
+  <a href="https://www.kayzen-lyon.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-40%20réalisations-1F3B61?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/tarek-belhadj-lyon/"><img src="https://img.shields.io/badge/LinkedIn-tarek--belhadj--lyon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contact@kayzen-lyon.fr"><img src="https://img.shields.io/badge/Email-contact@kayzen--lyon.fr-06343a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:contact@kayzen-lyon.fr"><img src="https://img.shields.io/badge/Email-contact@kayzen--lyon.fr-0BBE6D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## 👋 Bonjour, je suis Tarek
@@ -128,8 +128,8 @@ Une sélection — le portfolio complet (40 réalisations) est sur **[kayzen-lyo
 ## 📊 Activité GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=skyymar69-rgb&show_icons=true&locale=fr&hide_border=true&title_color=0b7a80&icon_color=0b7a80" alt="Statistiques GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyymar69-rgb&layout=compact&locale=fr&hide_border=true&title_color=0b7a80" alt="Langages les plus utilisés">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=skyymar69-rgb&show_icons=true&locale=fr&hide_border=true&title_color=1F3B61&icon_color=B7481F" alt="Statistiques GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyymar69-rgb&layout=compact&locale=fr&hide_border=true&title_color=1F3B61" alt="Langages les plus utilisés">
 </p>
 
 ---
