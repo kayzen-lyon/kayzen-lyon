@@ -35,7 +35,7 @@ Chaque règle cite sa source officielle, et quatre vérificateurs testent le ré
 
 Pourquoi le donner ? Parce que de plus en plus de sites sont écrits par des agents IA, et qu'un site inaccessible ou qui piste ses visiteurs sans leur accord pénalise tout le monde. Retours, corrections et contributions sont les bienvenus.
 
-👉 [Installer le skill](https://github.com/kayzen-lyon/eu-web-compliance#installation) • ⭐ [Le dépôt sur GitHub](https://github.com/kayzen-lyon/eu-web-compliance)
+🌐 [Page de présentation et mode d’emploi](https://eu-web-compliance.kayzen-lyon.com) • 👉 [Installer le skill](https://github.com/kayzen-lyon/eu-web-compliance#installation) • ⭐ [Le dépôt sur GitHub](https://github.com/kayzen-lyon/eu-web-compliance)
 
 ---
 
