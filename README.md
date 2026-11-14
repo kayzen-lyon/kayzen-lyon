@@ -71,12 +71,6 @@ Des outils utilisables sans payer, souvent sans inscription :
 | Dépôt | Description |
 |---|---|
 | [**eu-web-compliance**](https://github.com/kayzen-lyon/eu-web-compliance) | Skill pour agents IA : sites conformes aux obligations européennes (EAA, RGAA, RGPD, AI Act, ANSSI, consommation) |
-| [**konforme**](https://github.com/kayzen-lyon/konforme) | Accessibilité web RGAA & WCAG automatisée par IA |
-| [**nexus-seo**](https://github.com/kayzen-lyon/nexus-seo) | Plateforme SEO IA : GEO, AEO, LLMO, audit technique |
-| [**kayzen-turf-ai**](https://github.com/kayzen-lyon/kayzen-turf-ai) | Pronostics hippiques : modélisation multi-agents Plackett-Luce |
-| [**fonciermcp**](https://github.com/kayzen-lyon/fonciermcp) | Serveur MCP autour des données foncières |
-| [**naturo-nutri**](https://github.com/kayzen-lyon/naturo-nutri) | Portail de 797 pages en naturopathie, avec quiz de tempérament |
-| [**tableo**](https://github.com/kayzen-lyon/tableo) | SaaS de commande et de paiement par QR code pour la restauration |
 
 Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est également consultable publiquement.
 
@@ -90,7 +84,7 @@ Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est égalem
 | **CITEIA** | Lisibilité du site par les robots IA et données structurées | 👉 [synaptik.kayzen-lyon.com](https://synaptik.kayzen-lyon.com) |
 | **Konsent** | Cookies et traceurs, comportement réel du code face au consentement | 👉 [konsent.kayzen-lyon.com](https://konsent.kayzen-lyon.com) |
 | **eu-web-compliance** | Accessibilité, RGPD, AI Act, sécurité et droit de la consommation, appliqués par l'agent IA qui code le site | 👉 [Repo](https://github.com/kayzen-lyon/eu-web-compliance) |
-| **Konforme** | Accessibilité RGAA et WCAG | 👉 [konforme.kayzen-lyon.com](https://konforme.kayzen-lyon.com) • ✏️ [Repo](https://github.com/kayzen-lyon/konforme) |
+| **Konforme** | Accessibilité RGAA et WCAG | 👉 [konforme.kayzen-lyon.com](https://konforme.kayzen-lyon.com) |
 
 ## 🔒 Cybersécurité
 
@@ -106,11 +100,11 @@ Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est égalem
 | Projet | Description | Lien |
 |---|---|---|
 | **Météo Climat France** | Cartes MapLibre, prévisions et volet agronomique | 👉 [Site](https://meteo-climat-france.vercel.app) |
-| **PronoTurf** | Modèle multi-agents Plackett-Luce, logique de pari fondée sur la CLV | 👉 [Site](https://kayzen-turf-ai.vercel.app) • ✏️ [Repo](https://github.com/kayzen-lyon/kayzen-turf-ai) |
+| **PronoTurf** | Modèle multi-agents Plackett-Luce, logique de pari fondée sur la CLV | 👉 [Site](https://kayzen-turf-ai.vercel.app) |
 | **PronoFoot** | Analyse prédictive et gestion de bankroll | 👉 [Site](https://pronofoot-pearl.vercel.app) |
 | **Studio** | Retouche photo RAW non destructive | 👉 [Site](https://studio-ai-mauve.vercel.app) |
-| **Tableo** | Commandes et paiements par QR code (React, Supabase) | 👉 [Site](https://tableo-sepia.vercel.app) • ✏️ [Repo](https://github.com/kayzen-lyon/tableo) |
-| **FoncierMCP** | Serveur MCP pour agents IA | 👉 [Site](https://fonciermcp.vercel.app) • ✏️ [Repo](https://github.com/kayzen-lyon/fonciermcp) |
+| **Tableo** | Commandes et paiements par QR code (React, Supabase) | 👉 [Site](https://tableo-sepia.vercel.app) |
+| **FoncierMCP** | Serveur MCP pour agents IA | 👉 [Site](https://fonciermcp.vercel.app) |
 
 ---
 
