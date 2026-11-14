@@ -21,6 +21,24 @@ Je code depuis 2007, d'abord en freelance (création de sites, référencement, 
 
 ---
 
+## 🇪🇺 Nouveau : eu-web-compliance, offert à la communauté
+
+Je mets à disposition de tous, gratuitement et en open source (licence MIT), **[eu-web-compliance](https://github.com/kayzen-lyon/eu-web-compliance)** : un skill pour les agents IA de développement (Claude Code, Codex, GitHub Copilot, Cursor…). Avec lui, l'agent qui crée ou modifie un site applique dès la première ligne de code les obligations européennes qui le concernent :
+
+- **Accessibilité** : European Accessibility Act, EN 301 549, WCAG 2.2 AA, RGAA ;
+- **Données personnelles** : RGPD, cookies et traceurs ;
+- **Intelligence artificielle** : AI Act, obligations de transparence ;
+- **Sécurité** : guides de l'ANSSI, OWASP ;
+- **Droit de la consommation** : mentions légales, vente en ligne, bouton de rétractation, et les documents juridiques qui vont avec.
+
+Chaque règle cite sa source officielle, et quatre vérificateurs testent le résultat dans un vrai navigateur. Le skill ne remplace ni un audit ni un juriste, et il le dit : chaque rapport liste les points à faire vérifier par une personne.
+
+Pourquoi le donner ? Parce que de plus en plus de sites sont écrits par des agents IA, et qu'un site inaccessible ou qui piste ses visiteurs sans leur accord pénalise tout le monde. Retours, corrections et contributions sont les bienvenus.
+
+👉 [Installer le skill](https://github.com/kayzen-lyon/eu-web-compliance#installation) • ⭐ [Le dépôt sur GitHub](https://github.com/kayzen-lyon/eu-web-compliance)
+
+---
+
 ## 🎓 Formations
 
 | Formation | Organisme |
@@ -39,18 +57,20 @@ Des outils utilisables sans payer, souvent sans inscription :
 
 | Outil | Ce qu'il fait | Lien |
 |---|---|---|
-| 🔐 **Sésame** | Gestionnaire de mots de passe chiffré de bout en bout, 2FA et passkeys — web, extension, Android, Windows | 👉 [sesame.kayzen-lyon.com](https://sesame.kayzen-lyon.com) |
+| 🇪🇺 **eu-web-compliance** | Skill open source pour agents IA : accessibilité, RGPD, AI Act, sécurité ANSSI et droit de la consommation appliqués dès la création du site | 👉 [github.com/kayzen-lyon/eu-web-compliance](https://github.com/kayzen-lyon/eu-web-compliance) |
+| 🔐 **Sésame** | Gestionnaire de mots de passe chiffré de bout en bout, 2FA et passkeys — web, extensions Chrome, Edge et Firefox, Android, Windows | 👉 [sesame.kayzen-lyon.com](https://sesame.kayzen-lyon.com) |
 | ⚡ **Sésame Éclair** | Partage d'un secret par lien chiffré qui s'autodétruit après lecture | 👉 [eclair.kayzen-lyon.com](https://eclair.kayzen-lyon.com) |
-| 📄 **DocuSûr** | 31 outils PDF traités entièrement dans le navigateur : vos fichiers ne quittent pas votre poste | 👉 [docusur.kayzen-lyon.com](https://docusur.kayzen-lyon.com) |
+| 📄 **DocuSûr** | 75 outils pour PDF, images et documents, traités entièrement dans le navigateur : vos fichiers ne quittent pas votre appareil | 👉 [docusur.kayzen-lyon.com](https://docusur.kayzen-lyon.com) |
 | 🌦️ **Météo Climat France** | Prévisions heure par heure, cartes interactives et météo agricole pour chaque commune de France | 👉 [meteo-climat-france.vercel.app](https://meteo-climat-france.vercel.app) |
-| 🔎 **Nexus SEO** | Audit SEO, GEO et AEO — gratuit pour commencer | 👉 [nexus.kayzen-lyon.com](https://nexus.kayzen-lyon.com) |
-| 🍪 **Konsent** | Audit RGPD : ce que votre site dépose avant le consentement | 👉 [konsent.kayzen-lyon.com](https://konsent.kayzen-lyon.com) |
+| 🔎 **Nexus SEO** | Audit SEO, GEO et AEO gratuit, sans carte bancaire, et plus de 50 outils sur une même plateforme | 👉 [nexus.kayzen-lyon.com](https://nexus.kayzen-lyon.com) |
+| 🍪 **Konsent** | Audit RGPD gratuit : ce que votre site dépose avant le consentement | 👉 [konsent.kayzen-lyon.com](https://konsent.kayzen-lyon.com) |
 | 🔮 **L'Archiste** | Numérologie, thème natal et arts divinatoires, sans inscription | 👉 [archiste.vercel.app](https://archiste.vercel.app) |
 
 ### 📂 Code publié sur GitHub
 
 | Dépôt | Description |
 |---|---|
+| [**eu-web-compliance**](https://github.com/kayzen-lyon/eu-web-compliance) | Skill pour agents IA : sites conformes aux obligations européennes (EAA, RGAA, RGPD, AI Act, ANSSI, consommation) |
 | [**konforme**](https://github.com/kayzen-lyon/konforme) | Accessibilité web RGAA & WCAG automatisée par IA |
 | [**nexus-seo**](https://github.com/kayzen-lyon/nexus-seo) | Plateforme SEO IA : GEO, AEO, LLMO, audit technique |
 | [**kayzen-turf-ai**](https://github.com/kayzen-lyon/kayzen-turf-ai) | Pronostics hippiques : modélisation multi-agents Plackett-Luce |
@@ -69,6 +89,7 @@ Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est égalem
 | **Nexus SEO** | SEO technique, GEO, AEO, LLMO | 👉 [nexus.kayzen-lyon.com](https://nexus.kayzen-lyon.com) |
 | **CITEIA** | Lisibilité du site par les robots IA et données structurées | 👉 [synaptik.kayzen-lyon.com](https://synaptik.kayzen-lyon.com) |
 | **Konsent** | Cookies et traceurs, comportement réel du code face au consentement | 👉 [konsent.kayzen-lyon.com](https://konsent.kayzen-lyon.com) |
+| **eu-web-compliance** | Accessibilité, RGPD, AI Act, sécurité et droit de la consommation, appliqués par l'agent IA qui code le site | 👉 [Repo](https://github.com/kayzen-lyon/eu-web-compliance) |
 | **Konforme** | Accessibilité RGAA et WCAG | 👉 [konforme.kayzen-lyon.com](https://konforme.kayzen-lyon.com) • ✏️ [Repo](https://github.com/kayzen-lyon/konforme) |
 
 ## 🔒 Cybersécurité
