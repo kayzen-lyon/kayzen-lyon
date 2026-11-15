@@ -33,7 +33,7 @@ Je mets à disposition de tous, gratuitement et en open source (licence MIT), **
 
 Chaque règle cite sa source officielle, et quatre vérificateurs testent le résultat dans un vrai navigateur. Le skill ne remplace ni un audit ni un juriste, et il le dit : chaque rapport liste les points à faire vérifier par une personne.
 
-**Version 1.1.0** : le skill s'utilise désormais aussi sans agent IA. Les mêmes règles et les mêmes vérificateurs sont accessibles en ligne de commande (`npx github:kayzen-lyon/eu-web-compliance audit dist`), dans GitHub Actions (`uses: kayzen-lyon/eu-web-compliance@v1`) et comme serveur MCP. S'y ajoutent trois fiches pour WordPress, PrestaShop et Shopify, et une veille hebdomadaire des sources officielles citées.
+**Depuis la version 1.1** : le skill s'utilise désormais aussi sans agent IA. Les mêmes règles et les mêmes vérificateurs sont accessibles en ligne de commande (`npx github:kayzen-lyon/eu-web-compliance audit dist`), dans GitHub Actions (`uses: kayzen-lyon/eu-web-compliance@v1`) et comme serveur MCP. S'y ajoutent trois fiches pour WordPress, PrestaShop et Shopify, et une veille hebdomadaire des sources officielles citées.
 
 Pourquoi le donner ? Parce que de plus en plus de sites sont écrits par des agents IA, et qu'un site inaccessible ou qui piste ses visiteurs sans leur accord pénalise tout le monde. Retours, corrections et contributions sont les bienvenus.
 
