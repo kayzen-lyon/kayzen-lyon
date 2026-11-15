@@ -33,6 +33,8 @@ Je mets à disposition de tous, gratuitement et en open source (licence MIT), **
 
 Chaque règle cite sa source officielle, et quatre vérificateurs testent le résultat dans un vrai navigateur. Le skill ne remplace ni un audit ni un juriste, et il le dit : chaque rapport liste les points à faire vérifier par une personne.
 
+**Version 1.1.0** : le skill s'utilise désormais aussi sans agent IA. Les mêmes règles et les mêmes vérificateurs sont accessibles en ligne de commande (`npx github:kayzen-lyon/eu-web-compliance audit dist`), dans GitHub Actions (`uses: kayzen-lyon/eu-web-compliance@v1`) et comme serveur MCP. S'y ajoutent trois fiches pour WordPress, PrestaShop et Shopify, et une veille hebdomadaire des sources officielles citées.
+
 Pourquoi le donner ? Parce que de plus en plus de sites sont écrits par des agents IA, et qu'un site inaccessible ou qui piste ses visiteurs sans leur accord pénalise tout le monde. Retours, corrections et contributions sont les bienvenus.
 
 🌐 [Page de présentation et mode d’emploi](https://eu-web-compliance.kayzen-lyon.com) • 👉 [Installer le skill](https://github.com/kayzen-lyon/eu-web-compliance#installation) • ⭐ [Le dépôt sur GitHub](https://github.com/kayzen-lyon/eu-web-compliance)
@@ -57,7 +59,7 @@ Des outils utilisables sans payer, souvent sans inscription :
 
 | Outil | Ce qu'il fait | Lien |
 |---|---|---|
-| 🇪🇺 **eu-web-compliance** | Skill open source pour agents IA : accessibilité, RGPD, AI Act, sécurité ANSSI et droit de la consommation appliqués dès la création du site | 👉 [github.com/kayzen-lyon/eu-web-compliance](https://github.com/kayzen-lyon/eu-web-compliance) |
+| 🇪🇺 **eu-web-compliance** | Skill open source pour agents IA : accessibilité, RGPD, AI Act, sécurité ANSSI et droit de la consommation appliqués dès la création du site ; aussi en ligne de commande, GitHub Action et serveur MCP | 👉 [github.com/kayzen-lyon/eu-web-compliance](https://github.com/kayzen-lyon/eu-web-compliance) |
 | 🔐 **Sésame** | Gestionnaire de mots de passe chiffré de bout en bout, 2FA et passkeys — web, extensions Chrome, Edge et Firefox, Android, Windows | 👉 [sesame.kayzen-lyon.com](https://sesame.kayzen-lyon.com) |
 | ⚡ **Sésame Éclair** | Partage d'un secret par lien chiffré qui s'autodétruit après lecture | 👉 [eclair.kayzen-lyon.com](https://eclair.kayzen-lyon.com) |
 | 📄 **DocuSûr** | 75 outils pour PDF, images et documents, traités entièrement dans le navigateur : vos fichiers ne quittent pas votre appareil | 👉 [docusur.kayzen-lyon.com](https://docusur.kayzen-lyon.com) |
