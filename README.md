@@ -73,6 +73,7 @@ Des outils utilisables sans payer, souvent sans inscription :
 | Dépôt | Description |
 |---|---|
 | [**eu-web-compliance**](https://github.com/kayzen-lyon/eu-web-compliance) | Skill pour agents IA : sites conformes aux obligations européennes (EAA, RGAA, RGPD, AI Act, ANSSI, consommation) |
+| [**kayzen-turf-ai**](https://github.com/kayzen-lyon/kayzen-turf-ai) | PronoTurf (Kayzen Turf) : pronostics hippiques par modèle multi-agents, marché par opérateur, chronos, poids et forme — Next.js, Postgres — [voir le site](https://kayzen-turf-ai.vercel.app) |
 
 Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est également consultable publiquement.
 
