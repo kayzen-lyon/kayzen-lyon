@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.kayzen-lyon.com"><img src="https://img.shields.io/badge/Site-kayzen--lyon.com-B7481F?style=for-the-badge" alt="Site KAYZEN LYON"></a>
-  <a href="https://www.kayzen-lyon.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-40%20réalisations-1F3B61?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.kayzen-lyon.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-41%20réalisations-1F3B61?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/tarek-belhadj-lyon/"><img src="https://img.shields.io/badge/LinkedIn-tarek--belhadj--lyon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:contact@kayzen-lyon.fr"><img src="https://img.shields.io/badge/Email-contact@kayzen--lyon.fr-0BBE6D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -21,7 +21,28 @@ Je code depuis 2007, d'abord en freelance (création de sites, référencement, 
 
 ---
 
-## 🇪🇺 Nouveau : eu-web-compliance, offert à la communauté
+## 🎬 Nouveau : KAYZEN Flux, offert à la communauté
+
+J'ai le plaisir de mettre à disposition de tous, gratuitement et en open source (licence MIT), **[KAYZEN Flux](https://github.com/kayzen-lyon/kayzenflux)** : un logiciel complet et soigné pour télécharger et convertir vos vidéos et vos musiques, qui fait ce que les convertisseurs en ligne ne font pas : **tout le travail se passe sur votre ordinateur**. Vous collez un lien, l'application récupère le fichier et le convertit chez vous. Aucun média ne transite par un serveur de KAYZEN.
+
+C'est un projet dont je suis particulièrement fier, parce qu'il réunit dans une seule application tout ce qu'on attend d'un outil sérieux :
+
+- **Des formats propres** : MP3, M4A, Opus, FLAC et MP4 jusqu'en 4K, avec titre, artiste, pochette et chapitres ;
+- **Rien à payer, rien à subir** : pas de version payante, pas de publicité, pas de pistage, pas de compte à créer ;
+- **Une vraie médiathèque** : bibliothèque et lecteur hors connexion, playlists, abonnements à des chaînes et à des podcasts ;
+- **De l'intelligence locale** : transcription horodatée et résumé, calculés sur votre machine (whisper.cpp, Ollama) ;
+- **Une extension** pour Chrome, Edge et Firefox : lecture sans publicité, saut des segments sponsorisés (SponsorBlock) et envoi d'un lien à l'application en un clic ;
+- **Partout** : Windows, macOS et Linux.
+
+Sous le capot, le même niveau d'exigence : un moteur local qui n'écoute que sur votre machine, des binaires embarqués vérifiés par empreinte à chaque lancement, yt-dlp lancé sans interpréteur de commandes, et un cœur de logique couvert par des tests. Le code est public précisément pour cela : vous n'avez pas à me croire sur parole, vous pouvez vérifier.
+
+Pourquoi le donner ? Parce qu'un outil aussi courant ne devrait obliger personne à confier ses fichiers à un inconnu ni à traverser un mur de publicités. KAYZEN Flux est prévu pour les contenus que vous avez le droit de copier ; les contenus protégés par DRM ne sont pas pris en charge. Retours, rapports de bogue, traductions et contributions sont les bienvenus.
+
+🌐 [Page de présentation et téléchargement](https://flux.kayzen-lyon.com) • 📖 [L'étude de cas](https://www.kayzen-lyon.com/portfolio/kayzen-flux) • ⭐ [Le dépôt sur GitHub](https://github.com/kayzen-lyon/kayzenflux)
+
+---
+
+## 🇪🇺 eu-web-compliance, offert à la communauté
 
 Je mets à disposition de tous, gratuitement et en open source (licence MIT), **[eu-web-compliance](https://github.com/kayzen-lyon/eu-web-compliance)** : un skill pour les agents IA de développement (Claude Code, Codex, GitHub Copilot, Cursor…). Avec lui, l'agent qui crée ou modifie un site applique dès la première ligne de code les obligations européennes qui le concernent :
 
@@ -59,6 +80,7 @@ Des outils utilisables sans payer, souvent sans inscription :
 
 | Outil | Ce qu'il fait | Lien |
 |---|---|---|
+| 🎬 **KAYZEN Flux** | Logiciel libre (MIT) pour télécharger et convertir vidéos et musiques en MP3, M4A, Opus, FLAC ou MP4, entièrement sur votre ordinateur — Windows, macOS, Linux, extension Chrome, Edge et Firefox | 👉 [flux.kayzen-lyon.com](https://flux.kayzen-lyon.com) |
 | 🇪🇺 **eu-web-compliance** | Skill open source pour agents IA : accessibilité, RGPD, AI Act, sécurité ANSSI et droit de la consommation appliqués dès la création du site ; aussi en ligne de commande, GitHub Action et serveur MCP | 👉 [github.com/kayzen-lyon/eu-web-compliance](https://github.com/kayzen-lyon/eu-web-compliance) |
 | 🔐 **Sésame** | Gestionnaire de mots de passe chiffré de bout en bout, 2FA et passkeys — web, extensions Chrome, Edge et Firefox, Android, Windows | 👉 [sesame.kayzen-lyon.com](https://sesame.kayzen-lyon.com) |
 | ⚡ **Sésame Éclair** | Partage d'un secret par lien chiffré qui s'autodétruit après lecture | 👉 [eclair.kayzen-lyon.com](https://eclair.kayzen-lyon.com) |
@@ -72,6 +94,7 @@ Des outils utilisables sans payer, souvent sans inscription :
 
 | Dépôt | Description |
 |---|---|
+| [**kayzenflux**](https://github.com/kayzen-lyon/kayzenflux) | KAYZEN Flux : téléchargeur et convertisseur multimédia local, sans publicité ni pistage — Electron, React, TypeScript, yt-dlp, FFmpeg — [voir le site](https://flux.kayzen-lyon.com) |
 | [**eu-web-compliance**](https://github.com/kayzen-lyon/eu-web-compliance) | Skill pour agents IA : sites conformes aux obligations européennes (EAA, RGAA, RGPD, AI Act, ANSSI, consommation) |
 | [**kayzen-turf-ai**](https://github.com/kayzen-lyon/kayzen-turf-ai) | PronoTurf (Kayzen Turf) : pronostics hippiques par modèle multi-agents, marché par opérateur, chronos, poids et forme — Next.js, Postgres — [voir le site](https://kayzen-turf-ai.vercel.app) |
 
@@ -113,7 +136,7 @@ Le [design system KAYZEN](https://www.kayzen-lyon.com/design-system) est égalem
 
 ## 🌐 Sites réalisés
 
-Une sélection — le portfolio complet (40 réalisations) est sur **[kayzen-lyon.com/portfolio](https://www.kayzen-lyon.com/portfolio)**.
+Une sélection — le portfolio complet (41 réalisations) est sur **[kayzen-lyon.com/portfolio](https://www.kayzen-lyon.com/portfolio)**.
 
 | Bâtiment & artisanat | Restauration & commerce | Culture, santé & services |
 |---|---|---|
