@@ -42,6 +42,23 @@ Pourquoi le donner ? Parce qu'un outil aussi courant ne devrait obliger personne
 
 ---
 
+## 📄 DocuSûr, offert à la communauté
+
+**[DocuSûr](https://docusur.kayzen-lyon.com)** est la boîte à outils documents que j'aurais voulu trouver : **75 outils gratuits** pour vos PDF, vos images et vos fichiers Word, Excel et PowerPoint, qui fonctionnent **entièrement dans votre navigateur**. Fusionner, diviser, compresser, convertir, protéger, réorganiser, scanner avec la caméra : vos fichiers sont traités sur votre appareil et ne sont jamais envoyés sur un serveur.
+
+Ce qui en fait, à mes yeux, un outil à part :
+
+- **Vos documents restent chez vous** : contrats, bulletins de paie, pièces d'identité… rien ne quitte votre ordinateur ou votre téléphone ;
+- **Gratuit et sans inscription** : pas de compte à créer, pas de limite cachée derrière un abonnement ;
+- **Complet** : gestion des pages (fusion, découpe, rotation, livret, pages par feuille), conversions entre PDF, Word, Excel, PowerPoint et images, compression et protection ;
+- **Honnête sur ce qu'il fait** : chaque outil dit précisément ce qu'il produit et ce qu'il ne conserve pas, par exemple une mise en page perdue lors d'une conversion.
+
+Pourquoi l'offrir ? Parce que manipuler un PDF est un besoin de tous les jours, et que personne ne devrait avoir à confier un document confidentiel à un site inconnu pour y arriver. DocuSûr est conçu et édité à Lyon par KAYZEN ; vos retours et vos idées d'outils sont les bienvenus.
+
+🌐 [Ouvrir DocuSûr](https://docusur.kayzen-lyon.com) • 📖 [L'étude de cas](https://www.kayzen-lyon.com/portfolio/docusur)
+
+---
+
 ## 🇪🇺 eu-web-compliance, offert à la communauté
 
 Je mets à disposition de tous, gratuitement et en open source (licence MIT), **[eu-web-compliance](https://github.com/kayzen-lyon/eu-web-compliance)** : un skill pour les agents IA de développement (Claude Code, Codex, GitHub Copilot, Cursor…). Avec lui, l'agent qui crée ou modifie un site applique dès la première ligne de code les obligations européennes qui le concernent :
