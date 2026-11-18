@@ -13,6 +13,8 @@
 
 Développeur web full stack et spécialiste SEO, je fonde **KAYZEN LYON**, agence web et studio produit à Lyon. Je conçois des sites rapides et bien référencés pour les PME, et je développe des outils gratuits autour de trois sujets : **la visibilité** (SEO, GEO, moteurs de réponse IA), **la conformité** (RGPD, accessibilité RGAA) et **la sécurité** (mots de passe, secrets, tests d'intrusion).
 
+Derniers projets mis en ligne : **[Studio AI](https://studio-ai.kayzen-lyon.com)**, 18 outils photo et vidéo par IA, gratuits, sans inscription ni filigrane, qui tournent pour la plupart directement dans le navigateur ; et **[Omnillink](https://omnillink.kayzen-lyon.com)**, une API open source qui lit une page web à votre place (métadonnées, contenu, captures, PDF) et se branche aux agents IA via MCP.
+
 Je code depuis 2007, d'abord en freelance (création de sites, référencement, maintenance), et j'ai consolidé cette pratique par plusieurs formations en développement, en SEO et en gestion de projet digital. Mon passé de commercial dans la high-tech me sert surtout à une chose : comprendre ce dont un client a vraiment besoin avant d'écrire la première ligne de code.
 
 ```
